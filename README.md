@@ -19,4 +19,4 @@ dev
 
 ## Pull Requests
 
-- [PR 1]()
+- [PR 1](https://github.com/SimoneOdegard/caps-cloud/pull/1)
